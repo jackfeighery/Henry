@@ -17,6 +17,7 @@ speed = 5  # Movement speed
 ANIMATION_TIME = 6  # Speed of the animation
 
 # Load background image
+
 # Replace 'background.jpg' with the correct path to your background image file
 background = pygame.image.load('background.jpg')
 background = pygame.transform.scale(background, (WIDTH, HEIGHT))
